@@ -11,6 +11,8 @@
 }
 .box_2 {
 }
+.ellipse {
+}
 .image {
 }
 .primary_button {
@@ -66,6 +68,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -75,4 +79,17 @@
 ._连接线 {
 }
 .icon {
+}
+._文本段落1 {
+  text-align:left;
+}
+._一级标题1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._图片_ {
+  color:#000000;
 }
